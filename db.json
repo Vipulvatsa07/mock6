@@ -1,5 +1,23 @@
 {
     "users":[
+        {
+            "username": "vipul vatsa",
+            "email": "vatsavipul.8@gmail.com",
+            "password": "12345",
+            "id": 1
+          },
+          {
+            "username": "balli singh",
+            "email": "balli@gmail.com",
+            "password": "12345",
+            "id": 2
+          },
+          {
+            "username": "satyam",
+            "email": "satyam@gmail.com",
+            "password": "12345",
+            "id": 3
+          }
        
     ],
     "recipes":[
